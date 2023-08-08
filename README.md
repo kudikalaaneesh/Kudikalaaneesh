@@ -43,7 +43,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p >
+<p  display="flex" flex-direction="row" >
         <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
    <img 
 src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" 
