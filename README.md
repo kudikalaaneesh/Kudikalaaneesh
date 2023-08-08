@@ -192,5 +192,3 @@ src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af9941
  alt="selenium" width="40" height="40"/>
         </a>
         </p>
-
-
