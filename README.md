@@ -125,4 +125,16 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
           <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40"height="40"/>
         </a>
         </p>
+<p><img align="left" 
+src="https://github-readme-stats.vercel.app/api/top-langs?username=kudikalaaneesh&show_icons=true&locale=en&layout=compact"
+ alt="kudikalaaneesh" /></p>
 
+<p>&nbsp;<img 
+align="center" 
+src="https://github-readme-stats.vercel.app/api?username=kudikalaaneesh&show_icons=true&locale=en"
+ alt="kudikalaaneesh" /></p>
+
+<p><img 
+align="center" 
+src="https://github-readme-streak-stats.herokuapp.com/?user=kudikalaaneesh&"
+ alt="kudikalaaneesh" /></p>
