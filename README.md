@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aneesh Kudikala</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p
- align="left"> <img 
-src="https://komarev.com/ghpvc/?username=kudikalaaneesh&label=Profile%20views&color=0e75b6&style=flat"
- alt="kudikalaaneesh" /> </p>
-
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img 
-src="https://github-profile-trophy.vercel.app/?username=kudikalaaneesh" 
-alt="kudikalaaneesh" /></a> </p>
-
 - 🌱 I’m currently learning **SpringBoot,React,DevOps**
 
 - 👨‍💻 All of my projects are available at [aneeshkudikala.netlify.app/](aneeshkudikala.netlify.app/)
@@ -203,12 +193,4 @@ src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af9941
         </a>
         </p>
 
-<p><img align="left" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=kudikalaaneesh&show_icons=true&locale=en&layout=compact"
- alt="kudikalaaneesh" /></p>
-
-<p>&nbsp;<img 
-align="center" 
-src="https://github-readme-stats.vercel.app/api?username=kudikalaaneesh&show_icons=true&locale=en"
- alt="kudikalaaneesh" /></p>
 
